@@ -1,0 +1,1 @@
+import{p as o,g as a}from"./main-CZnfIJMl.js";function c(){const e=document.querySelector('[data-section="contact"]');if(!e||o())return;const t=e.querySelector("[data-wa-pulse]");t&&a.fromTo(t,{scale:1,opacity:.45},{scale:1.4,opacity:0,duration:1.5,ease:"power1.out",repeat:-1,repeatDelay:3.5})}export{c as initContact};

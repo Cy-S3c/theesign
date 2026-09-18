@@ -1,0 +1,1 @@
+import{p as e,g as t,S as o}from"./main-CZnfIJMl.js";function i(){const r=document.querySelector("[data-footer-wordmark]");r&&(e()||(t.set(r,{yPercent:35,opacity:0}),o.create({trigger:r,start:"top 95%",onEnter:()=>t.to(r,{yPercent:0,opacity:1,duration:.9,ease:"power3.out"}),id:"footer-wordmark"})))}export{i as initFooter};

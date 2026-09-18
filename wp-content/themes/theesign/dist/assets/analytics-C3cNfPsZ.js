@@ -1,0 +1,1 @@
+function t(n){typeof window.gtag=="function"&&window.gtag("event","whatsapp_click",{source:n})}function a(){document.querySelectorAll("[data-wa-link]").forEach(n=>{n.addEventListener("click",()=>t(n.dataset.waSource||"unknown"))})}export{a as initWaTracking,t as trackWaClick};

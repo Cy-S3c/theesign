@@ -1,0 +1,160 @@
+{
+  "src/js/animations/about.js": {
+    "file": "assets/about-C6DM6DHr.js",
+    "name": "about",
+    "src": "src/js/animations/about.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/contact.js": {
+    "file": "assets/contact-CLm_yYvb.js",
+    "name": "contact",
+    "src": "src/js/animations/contact.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/footer.js": {
+    "file": "assets/footer-CNYtrKN6.js",
+    "name": "footer",
+    "src": "src/js/animations/footer.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/hero.js": {
+    "file": "assets/hero-UJYXng7H.js",
+    "name": "hero",
+    "src": "src/js/animations/hero.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/page-hero.js": {
+    "file": "assets/page-hero--UgPnfFI.js",
+    "name": "page-hero",
+    "src": "src/js/animations/page-hero.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/portfolio-grid.js": {
+    "file": "assets/portfolio-grid-RslyPrz8.js",
+    "name": "portfolio-grid",
+    "src": "src/js/animations/portfolio-grid.js",
+    "isDynamicEntry": true
+  },
+  "src/js/animations/projects.js": {
+    "file": "assets/projects-nP42XB3I.js",
+    "name": "projects",
+    "src": "src/js/animations/projects.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/services.js": {
+    "file": "assets/services-DVWJaROV.js",
+    "name": "services",
+    "src": "src/js/animations/services.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/stats.js": {
+    "file": "assets/stats-IsF3mTlz.js",
+    "name": "stats",
+    "src": "src/js/animations/stats.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/animations/trust-bar.js": {
+    "file": "assets/trust-bar-CJCa97a3.js",
+    "name": "trust-bar",
+    "src": "src/js/animations/trust-bar.js",
+    "isDynamicEntry": true
+  },
+  "src/js/animations/xd-sections.js": {
+    "file": "assets/xd-sections-hZHQCLe6.js",
+    "name": "xd-sections",
+    "src": "src/js/animations/xd-sections.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/main.js"
+    ]
+  },
+  "src/js/components/form-success.js": {
+    "file": "assets/form-success-CP2sDk0m.js",
+    "name": "form-success",
+    "src": "src/js/components/form-success.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/modal.js": {
+    "file": "assets/modal-B-rejywR.js",
+    "name": "modal",
+    "src": "src/js/components/modal.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/nav.js": {
+    "file": "assets/nav-BwHl4Z32.js",
+    "name": "nav",
+    "src": "src/js/components/nav.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/whatsapp-bubble.js": {
+    "file": "assets/whatsapp-bubble-D8UHX1_D.js",
+    "name": "whatsapp-bubble",
+    "src": "src/js/components/whatsapp-bubble.js",
+    "isDynamicEntry": true
+  },
+  "src/js/lib/analytics.js": {
+    "file": "assets/analytics-C3cNfPsZ.js",
+    "name": "analytics",
+    "src": "src/js/lib/analytics.js",
+    "isDynamicEntry": true
+  },
+  "src/js/main.js": {
+    "file": "assets/main-CZnfIJMl.js",
+    "name": "main",
+    "src": "src/js/main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/js/animations/hero.js",
+      "src/js/animations/page-hero.js",
+      "src/js/animations/page-hero.js",
+      "src/js/animations/portfolio-grid.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/xd-sections.js",
+      "src/js/animations/trust-bar.js",
+      "src/js/animations/about.js",
+      "src/js/animations/services.js",
+      "src/js/animations/projects.js",
+      "src/js/animations/stats.js",
+      "src/js/animations/contact.js",
+      "src/js/animations/footer.js",
+      "src/js/components/nav.js",
+      "src/js/components/modal.js",
+      "src/js/components/whatsapp-bubble.js",
+      "src/js/components/form-success.js",
+      "src/js/lib/analytics.js"
+    ],
+    "css": [
+      "assets/main-OjTJocJi.css"
+    ]
+  }
+}

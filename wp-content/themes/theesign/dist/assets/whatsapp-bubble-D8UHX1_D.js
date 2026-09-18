@@ -1,0 +1,1 @@
+function n(){const e=document.querySelector("[data-wa-bubble]");if(!e)return;const t=()=>{window.scrollY>window.innerHeight?(e.style.opacity="1",e.style.transform="translateY(0)"):(e.style.opacity="0",e.style.transform="translateY(1rem)")};t(),window.addEventListener("scroll",t,{passive:!0})}export{n as initWhatsAppBubble};

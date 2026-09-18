@@ -1,0 +1,1 @@
+import{p as o,g as r}from"./main-CZnfIJMl.js";function n(){const t=document.querySelector('[data-section="stats"]');if(!t)return;const e=t.querySelector("[data-stats-badge]");e&&!o()&&r.to(e,{rotation:360,duration:22,repeat:-1,ease:"none",transformOrigin:"50% 50%"})}export{n as initStats};
